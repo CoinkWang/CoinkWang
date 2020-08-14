@@ -8,3 +8,5 @@ _  /    _  __ \_  /__  __ \_  //_/    __ | /| / /_  __ `/_  __ \_  __ `/
 \____/  \____//_/  /_/ /_//_/|_|      ____/|__/  \__,_/ /_/ /_/_\__, /   
                                                                /____/    
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coinkwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
